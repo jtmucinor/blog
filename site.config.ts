@@ -62,4 +62,12 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
+  
+  <script src="https://utteranc.es/client.js"
+        repo="jtmucinor / blog"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 })
