@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'blog',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Joaquin Muciño',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
