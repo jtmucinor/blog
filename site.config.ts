@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'blog',
+  name: 'La Transversalización de la Ingeniería',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Joaquin Muciño',
 
